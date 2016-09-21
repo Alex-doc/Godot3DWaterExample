@@ -1,2 +1,2 @@
 # Godot3DWaterExample
-a simple 3D water example
+A simple 3D water example for Godot game engine.
